@@ -55,3 +55,8 @@ Web browser access to Microsoft Fabric.
 
 ### Outcome
 This lab provides a comprehensive introduction to building and querying a data warehouse in Microsoft Fabric, with an emphasis on SQL analytics and visualization. It is ideal for data analysts, BI developers, and anyone exploring Microsoft Fabric’s unified analytics capabilities.
+
+### 👤 Author >> Sefa Öztürk
+IT Trainee | Azure Data Engineer in progress
+
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
